@@ -1,0 +1,2 @@
+# TypeScript
+TS语法
